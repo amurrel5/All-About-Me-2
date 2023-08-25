@@ -40,7 +40,7 @@ struct ContentView: View {
                     
                     }
             
-            .alert("Movies are my love language!", isPresented: $presentAlert) {
+            .alert("Movies are my love languages!", isPresented: $presentAlert) {
                 
             
             }
